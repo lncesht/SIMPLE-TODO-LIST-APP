@@ -1,0 +1,12 @@
+{
+    "build": {
+      "env": {
+        "CI": "false"
+      },
+      "commands": {
+        "build": "npm run build"
+      },
+      "outputDirectory": "dist"
+    }
+  }
+  
